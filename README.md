@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-**alphthms/alphthms** is a ✨ _special_ ✨ because its `README.md` (this file) appears on your GitHub profile.
+**alphthms/alphthms** 
 
 Here are some projects to get you started:
 
