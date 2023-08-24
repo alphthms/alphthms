@@ -17,5 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphthms&show_icons=true&locale=en&layout=compact" alt="alphthms" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphthms&" alt="alphthms" /></p>
 
