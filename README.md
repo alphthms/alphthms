@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphthms&label=Profile%20views&color=0e75b6&style=flat" alt="alphthms" /> </p>
 
 
-- 🔭 I’m currently working on [Portfolio](https://alphthms.github.io/Portfolio/)
+- 🔭 I’m currently working on [Portfolio](https://github.com/alphthms/LocalLink-App)
 
 - 📫 How to reach me **alphonsethom81@gmail.com**
 
